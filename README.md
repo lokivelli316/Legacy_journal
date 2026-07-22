@@ -14,6 +14,7 @@ That was the correct catch. You do not need to understand the engine before usin
 
 - [Start in five minutes](START_HERE_BEGINNER.md)
 - [Use Legacy Journal with ChatGPT](USE_WITH_CHATGPT.md)
+- [Use Legacy Journal with Grok](USE_WITH_GROK.md)
 - [Choose a beginner use case](BEGINNER_USE_CASES.md)
 
 ## Core promise
@@ -64,6 +65,7 @@ my-legacy-journal/
 
 - [Beginner guide](START_HERE_BEGINNER.md)
 - [Use with ChatGPT](USE_WITH_CHATGPT.md)
+- [Use with Grok](USE_WITH_GROK.md)
 - [Beginner use cases](BEGINNER_USE_CASES.md)
 - [Core principles](docs/01-core-principles.md)
 - [Truth Gate](docs/02-truth-gate.md)
