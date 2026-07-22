@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/legacy-journal-entry.schema.json",
+  "title": "Legacy Journal Entry",
+  "type": "object",
+  "required": ["date", "mode", "truth_status", "observed"],
+  "properties": {
+    "date": {"type": "string", "format": "date"},
+    "mode": {"enum": ["pulse", "breath", "conversation", "record"]},
+    "truth_status": {"enum": ["written_today", "planned", "reconstructed"]},
+    "intended_reader": {"type": "string"},
+    "observed": {"type": "array", "items": {"type": "string"}},
+    "felt": {"type": "array", "items": {"type": "string"}},
+    "interpreted": {"type": "array", "items": {"type": "string"}},
+    "unknown": {"type": "array", "items": {"type": "string"}},
+    "connection": {"type": "string"},
+    "challenge_point": {"type": "string"},
+    "closing": {"type": "string"},
+    "ai_commentary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["role", "commentary"],
+        "properties": {
+          "role": {"type": "string"},
+          "model": {"type": "string"},
+          "commentary": {"type": "string"},
+          "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+          "human_ruling": {"type": "string"}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
