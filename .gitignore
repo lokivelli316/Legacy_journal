@@ -1,0 +1,29 @@
+# Private journal material
+private/
+journal-private/
+raw-entries/
+source-notes/
+attachments-private/
+exports/private/
+
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# Personal exports and metadata scans
+*.private.docx
+*.private.pdf
+metadata-scan-report.*
+privacy-scan-report.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
