@@ -4,6 +4,18 @@
 
 Legacy Journal is designed for people who want to leave behind more than polished highlights. It supports short entries, long-form reflection, mistakes, uncertainty, ordinary days, recovery, lessons, humor, and optional AI commentary—without allowing AI to replace the human witness.
 
+## New here?
+
+Even the creator eventually stopped during a real family-onboarding conversation and said:
+
+> “That’s easier said than done, lmao. I barely understand it—but I do know it’s actually useful, and knowing it’s useful isn’t the same as knowing its internal mechanisms.”
+
+That was the correct catch. You do not need to understand the engine before using the dashboard.
+
+- [Start in five minutes](START_HERE_BEGINNER.md)
+- [Use Legacy Journal with ChatGPT](USE_WITH_CHATGPT.md)
+- [Choose a beginner use case](BEGINNER_USE_CASES.md)
+
 ## Core promise
 
 - Long entries can carry complexity.
@@ -50,6 +62,9 @@ my-legacy-journal/
 
 ## Start here
 
+- [Beginner guide](START_HERE_BEGINNER.md)
+- [Use with ChatGPT](USE_WITH_CHATGPT.md)
+- [Beginner use cases](BEGINNER_USE_CASES.md)
 - [Core principles](docs/01-core-principles.md)
 - [Truth Gate](docs/02-truth-gate.md)
 - [Entry modes](docs/03-entry-modes.md)
