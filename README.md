@@ -58,6 +58,12 @@ my-legacy-journal/
 - [Working With the Weird Human](docs/06-working-with-the-weird-human.md)
 - [Privacy and publication checklist](docs/07-privacy-and-publication.md)
 
+## The Wider Ecosystem
+
+Legacy Journal is the practical, public-facing layer of a larger body of work exploring containment, creation, responsibility, philosophical conflict, chronic pain, and what people leave behind — books, open research, and this toolkit, all cross-linked.
+
+See [`ECOSYSTEM.md`](ECOSYSTEM.md) for the full map.
+
 ## Privacy warning
 
 This repository is a toolkit, **not a recommended place for raw private journal entries**. Git history is durable. Removing a file later does not guarantee that its earlier contents disappear from clones, forks, caches, or commit history.
