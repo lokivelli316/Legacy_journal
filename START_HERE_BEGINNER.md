@@ -50,11 +50,12 @@ You are done when the true thing has been preserved. Length is optional.
 
 When tired, choose Pulse. A short honest entry is more useful than a perfect entry that never gets written.
 
-## You may use ChatGPT as the interface
+## You may use ChatGPT or Grok as the interface
 
-You do not have to learn every Legacy Journal component. You may give the framework to ChatGPT and let it quietly apply the machinery while you remain the witness.
+You do not have to learn every Legacy Journal component. You may give the framework to an AI and let it quietly apply the machinery while you remain the witness.
 
-Go to [Use Legacy Journal with ChatGPT](USE_WITH_CHATGPT.md).
+- [Use Legacy Journal with ChatGPT](USE_WITH_CHATGPT.md)
+- [Use Legacy Journal with Grok](USE_WITH_GROK.md)
 
 ## Begin from a real-life situation
 
